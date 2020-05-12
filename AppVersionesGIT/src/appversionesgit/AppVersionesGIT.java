@@ -16,6 +16,7 @@ public class AppVersionesGIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Esta es la version 2.0");
     }
     
 }
